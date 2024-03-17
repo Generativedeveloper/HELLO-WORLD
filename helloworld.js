@@ -1,0 +1,12 @@
+var message = "Hello world";
+console.log(message);
+var num1 = 2;
+var num2 = 10;
+var sum = num1 + num2;
+var sub = num2 - num1;
+var mult = num2 * num1;
+var div = num2 / num1;
+console.log(sum);
+console.log(sub);
+console.log(mult);
+console.log(div);
